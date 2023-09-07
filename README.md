@@ -1,5 +1,4 @@
-# Adalab-DA-promoD-Mod2-sprint2-AnaBelenPerezMoreno
-Segunda evaluación del bootcamp Data Analytics del Módulo 2
+
 
 Ejercicios realizados por Ana Belén Pérez Moreno (26/04/2023)
 
