@@ -1,10 +1,6 @@
 
 
-Ejercicios realizados por Ana Belén Pérez Moreno (26/04/2023)
-
-    -EDA: métodos para realizar análisis exploratorio de los datos (nulos, outliers, ...), gráficos para visualización de los datos.
-    -Limpieza: duplicados, nombre columnas, datos redundantes, tipo de datos, imputación de valores nulos, librería sklearn.
-    -ETL: extracción de API's, clases y funciones de limpieza, creación e inserción de datos en BBDD, Pipeline.
+Proyecto realizado por Ana Belén Pérez Moreno (26/04/2023)
 
 
      El proyecto tiene como objetivo identificar todas las universidades ubicadas en tres países específicos: Estados Unidos, Canadá y Argentina. 
@@ -17,3 +13,7 @@ Ejercicios realizados por Ana Belén Pérez Moreno (26/04/2023)
 
     El jupyter "clase_API_limpieza.ipynb" hace la llamada a la API para extraer los datos y realiza su posterior limpieza para insertarlos en la BBDD.
     El jupyter "creacion_insercion_datos.ipynb" nos ayuda a crear la BBDD y a insertar los datos en ella.
+
+    -EDA: métodos para realizar análisis exploratorio de los datos (nulos, outliers, ...), gráficos para visualización de los datos.
+    -Limpieza: duplicados, nombre columnas, datos redundantes, tipo de datos, imputación de valores nulos, librería sklearn.
+    -ETL: extracción de API's, clases y funciones de limpieza, creación e inserción de datos en BBDD, Pipeline.z
